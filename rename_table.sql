@@ -1,0 +1,1 @@
+ALTER TABLE pizzas RENAME TO Pizza;
