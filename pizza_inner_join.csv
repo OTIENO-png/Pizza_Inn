@@ -1,0 +1,21 @@
+order_id,pizza_name,category,size,quantity,price,date,time,total_price
+21350,The Barbecue Chicken Pizza,Chicken,S,1,12.75,2015-12-31,23:02:05,12.75
+21348,The Napolitana Pizza,Classic,S,1,12,2015-12-31,21:23:10,12
+21347,The Pepper Salami Pizza,Supreme,S,1,12.5,2015-12-31,21:14:37,12.5
+21346,The California Chicken Pizza,Chicken,S,1,12.75,2015-12-31,20:51:07,12.75
+21346,The Big Meat Pizza,Classic,S,1,12,2015-12-31,20:51:07,12
+21345,The Classic Deluxe Pizza,Classic,S,1,12,2015-12-31,20:44:43,12
+21344,The Pepperoni Pizza,Classic,M,1,12.5,2015-12-31,20:43:46,12.5
+21344,The Four Cheese Pizza,Veggie,M,1,14.75,2015-12-31,20:43:46,14.75
+21342,The Italian Capocollo Pizza,Classic,S,1,12,2015-12-31,20:02:57,12
+21341,The Pepperoni Pizza,Classic,M,1,12.5,2015-12-31,19:52:09,12.5
+21336,"The Pepperoni, Mushroom, and Peppers Pizza",Classic,M,1,14.5,2015-12-31,19:19:26,14.5
+21335,The Napolitana Pizza,Classic,S,1,12,2015-12-31,19:18:44,12
+21335,The Pepperoni Pizza,Classic,M,1,12.5,2015-12-31,19:18:44,12.5
+21334,The Four Cheese Pizza,Veggie,M,1,14.75,2015-12-31,19:17:49,14.75
+21332,The California Chicken Pizza,Chicken,S,1,12.75,2015-12-31,19:06:29,12.75
+21331,The Spinach and Feta Pizza,Veggie,S,1,12,2015-12-31,19:05:04,12
+21328,The Four Cheese Pizza,Veggie,M,1,14.75,2015-12-31,18:46:11,14.75
+21325,The Spinach and Feta Pizza,Veggie,S,1,12,2015-12-31,18:37:20,12
+21324,The California Chicken Pizza,Chicken,S,1,12.75,2015-12-31,18:36:06,12.75
+21323,The Mediterranean Pizza,Veggie,S,1,12,2015-12-31,18:28:05,12
