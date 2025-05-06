@@ -1,0 +1,15 @@
+order_id,Pizza_name,category,size,quantity,price,date,time,total_price,Total_Quantity_Sold
+914,The Vegetables + Vegetables Pizza,Veggie,M,1,16,2015-01-16,12:14:22,16,14
+915,The Barbecue Chicken Pizza,Chicken,M,1,16.75,2015-01-16,12:20:22,16.75,14
+915,The Five Cheese Pizza,Veggie,L,1,18.5,2015-01-16,12:20:22,18.5,14
+915,The Green Garden Pizza,Veggie,S,1,12,2015-01-16,12:20:22,12,14
+915,The Napolitana Pizza,Classic,M,1,16,2015-01-16,12:20:22,16,14
+915,The Pepperoni Pizza,Classic,L,1,15.25,2015-01-16,12:20:22,15.25,14
+915,The Pepperoni Pizza,Classic,M,1,12.5,2015-01-16,12:20:22,12.5,14
+915,The Prosciutto and Arugula Pizza,Supreme,S,1,12.5,2015-01-16,12:20:22,12.5,14
+915,The Spicy Italian Pizza,Supreme,L,1,20.75,2015-01-16,12:20:22,20.75,14
+916,The Italian Supreme Pizza,Supreme,M,1,16.5,2015-01-16,12:30:09,16.5,14
+916,The Mexicana Pizza,Veggie,L,1,20.25,2015-01-16,12:30:09,20.25,14
+916,The Pepperoni Pizza,Classic,L,1,15.25,2015-01-16,12:30:09,15.25,14
+916,The Greek Pizza,Classic,XL,1,25.5,2015-01-16,12:30:09,25.5,14
+917,The Southwest Chicken Pizza,Chicken,L,1,20.75,2015-01-16,12:34:15,20.75,14
